@@ -1,0 +1,51 @@
+@charset "UTF-8";
+/* CSS Document */
+
+table tr {
+	background-color:#22bd46;
+}
+
+table tr td.left {
+	width:180px;
+	text-align:right;
+	font-size:14px;
+	background-color:#22bd46;
+}
+
+table tr td.right {
+	text-align:left;
+	background-color:#22bd46;
+}
+
+tr:hover {
+	background-color:#22bd22;
+
+}
+
+table .top_row {
+	background-color:#FFCC00;
+}
+
+input {
+	background-color:#CCFFCC;
+	padding:1px;
+	font-size:12px;
+	margin:1px;
+}
+
+select {
+	background-color:#CCFFCC;
+	padding:1px;
+	font-size:12px;
+	margin:1px;
+}
+
+form ul li {
+	margin:2px;
+}
+
+form {
+	background-color:#22bd46;
+	padding:10px;
+	margin-bottom:5px;
+}

@@ -1,0 +1,21 @@
+@charset "UTF-8";
+/* CSS Document */
+
+property_box {
+
+}
+
+table tr td.left {
+	width:140px;
+	text-align:right;
+	font-size:14px;
+}
+
+table tr td.right {
+	text-align:left;
+	background-color:#22bd46;
+}
+
+img {
+	margin-left:15px;
+}

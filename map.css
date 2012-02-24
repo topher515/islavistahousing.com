@@ -1,0 +1,27 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+input {
+	background-color:#CCFFCC;
+	padding:1px;
+	font-size:12px;
+	margin:1px;
+}
+
+select {
+	background-color:#CCFFCC;
+	padding:1px;
+	font-size:12px;
+	margin:1px;
+}
+
+form ul li {
+	margin:2px;
+}
+
+form {
+	background-color:#22bd46;
+	padding:10px;
+	margin-bottom:5px;
+}
